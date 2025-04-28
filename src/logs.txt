@@ -1,0 +1,4 @@
+{'v8t4m1': '53763_PC', 'v0h1t0': '53604_PC', 'v9a5b7': '53769_PC', '90210': '37935_PC', '96815': '40717_PC'}
+Load Complete
+Getting current weather conditions (53604_PC)
+Empty response_json, failed to get request
